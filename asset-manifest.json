@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Accouting-App/static/css/main.d5ae98d3.css",
+    "main.js": "/Accouting-App/static/js/main.15dac251.js",
+    "index.html": "/Accouting-App/index.html",
+    "main.d5ae98d3.css.map": "/Accouting-App/static/css/main.d5ae98d3.css.map",
+    "main.15dac251.js.map": "/Accouting-App/static/js/main.15dac251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5ae98d3.css",
+    "static/js/main.15dac251.js"
+  ]
+}
